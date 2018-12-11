@@ -1,7 +1,6 @@
 
-function update () {
+function update() {
 	document.getElementById('actionsId').innerText = gameAction;
-	
 }
 
 								

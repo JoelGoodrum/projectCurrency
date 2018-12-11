@@ -1,7 +1,7 @@
 //game variables
-let gameAction;
-let name;
-let cash = 0;
-let items = [];
+var gameAction;
+var name;
+var cash = 0;
+var items = [];
 
-gameAction = "press enter!
+
