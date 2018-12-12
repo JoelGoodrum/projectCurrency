@@ -6,7 +6,7 @@ function narrator1 () {
 
 function narrator2() {
 
-	name = "james";
+	name = document.getElementById('playerInput').value
 	gameAction = name + ", nice to meet you!"
 	update();
 }
